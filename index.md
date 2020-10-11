@@ -30,7 +30,7 @@
 
 [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
-https://www.youtube.com/watch?time_continue=29&v=L1nF4XfnJMs&feature=emb_title
+https://www.youtube.com/watch?v=tj-feoNHiQI
 
 <br><br>
 # [대표 이미지]
