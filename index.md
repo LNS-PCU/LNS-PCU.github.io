@@ -86,12 +86,12 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 ## 1. 게임 오브젝트 분해
 |연번|오브젝트 이름|오브젝트 이미지|
 |------|---|---|
-|1|플레이어|<img src="./img/ 1.png">|
-|2|로비화면|<img src="./img/ 2.png">|
-|3|필드화면|<img src="./img/ 3.jpg">|
-|4|캐릭터의 탄|<img src="./img/ 4.jpg">|
-|5|적|<img src="./img/ 5.png">|
-|6|적의 탄|<img src="./img/ 6.jpg">|
+|1|플레이어|<img src="./img/1.png">|
+|2|로비화면|<img src="./img/2.png">|
+|3|필드화면|<img src="./img/3.jpg">|
+|4|캐릭터의 탄|<img src="./img/4.jpg">|
+|5|적|<img src="./img/5.png">|
+|6|적의 탄|<img src="./img/6.jpg">|
 <br>
 
 ## 2. 파라미터(속성) 뽑아 보기
