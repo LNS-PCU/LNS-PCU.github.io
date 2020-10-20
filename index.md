@@ -292,6 +292,7 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 <img src="./img/개발 3.png">
 
 <br>
+
 - 1주차는 타이틀 메뉴화면을 구현함과 동시에 스토리와 컨셉을 짠다.
 
 - 2주차는 스토리를 다듬으며 맵을 구현함과 맵 그래픽 작업을 한다.
