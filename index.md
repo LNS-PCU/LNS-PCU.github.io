@@ -311,24 +311,24 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 
 ## 1주차
 
-[1주차](files/W1)
+[1주차](files/W1.md)
 
 ## 2주차
 
-[2주차](files/W2)
+[2주차](files/W2.md)
 
 ## 3주차
 
-[3주차](files/W3)
+[3주차](files/W3.md)
 
 ## 4주차
 
-[4주차](files/W4)
+[4주차](files/W4.md)
 
 ## 5주차
 
-[5주차](files/W5)
+[5주차](files/W5.md)
 
 ## 6주차
 
-[6주차](files/W6)
+[6주차](files/W6.md)
