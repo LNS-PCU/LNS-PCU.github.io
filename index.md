@@ -309,6 +309,8 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 
 # [개발 진행도]
 
+[링크는 젤다의전설 주인공 이름](LNS-PCU.github.io/files/W1)
+
 ## 1주차
 
 작업명 : 타이틀 메뉴화면 구현, 스토리와 컨셉짜기
