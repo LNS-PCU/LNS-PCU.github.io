@@ -311,7 +311,7 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 
 ## 1주차
 
-[W1](LNS-PCU.github.io/W1.md)
+[W1](LNS-PCU.github.io/files/W1)
 
 ## 2주차
 
