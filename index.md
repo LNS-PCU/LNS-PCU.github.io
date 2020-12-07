@@ -311,7 +311,7 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 
 ## 1주차
 
-[W1](/files/W1.md)
+[W1]<href="./files/W1.md">
 
 ## 2주차
 
