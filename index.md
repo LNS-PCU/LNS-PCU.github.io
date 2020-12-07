@@ -309,7 +309,7 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 
 # [개발 진행도]
 
-[링크는 젤다의전설 주인공 이름](LNS-PCU.github.io/files/W1)
+[링크는 젤다의전설 주인공 이름](files/W1)
 
 ## 1주차
 
