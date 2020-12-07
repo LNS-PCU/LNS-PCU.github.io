@@ -315,20 +315,20 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 
 ## 2주차
 
-[2주차](files/W2.md)
+<a href="./files/W2.md"> W2
 
 ## 3주차
 
-[3주차](files/W3.md)
+<a href="./files/W3.md"> W3
 
 ## 4주차
 
-[4주차](files/W4.md)
+<a href="./files/W4.md"> W4
 
 ## 5주차
 
-[5주차](files/W5.md)
+<a href="./files/W5.md"> W5
 
 ## 6주차
 
-[6주차](files/W6.md)
+<a href="./files/W6.md"> W6
