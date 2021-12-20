@@ -19,6 +19,8 @@
 
 [9.현재 개발된 부분](#현재-개발된-부분)
 
+[10.현재 개발된 게임 실행 모습](#현재-개발된-게임-실행-모습)
+
 <br>
 
 # [라이트 엔 쉐도우]
@@ -298,4 +300,4 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 <img src="./img/11.png">
 <img src="./img/22.png">
 <img src="./img/33.png">
-<img src="./img/33.png">
+<img src="./img/44.png">
