@@ -298,6 +298,6 @@ https://www.youtube.com/watch?v=tj-feoNHiQI
 # [현재 개발된 게임 실행 모습]
 
 <img src="./img/11.png">
+<img src="./img/44.png">
 <img src="./img/22.png">
 <img src="./img/33.png">
-<img src="./img/44.png">
